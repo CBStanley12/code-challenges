@@ -8,16 +8,17 @@
 ---
 
 <details>
-    <summary>Table of Contents</summary>
+<summary>Table of Contents</summary>
 
-    * [freeCodeCamp Certification] (#freecodecamp-certification)
-        * [Algorithms and Data Structures] (#algorithms-and-data-structures)
-    * [freeCodeCamp Challenges] (#freecodecamp-challenges)
-        * [Algorithms] (#algorithms)
-        * [Data Structures] (#data-structures)
-        * [Rosetta Code] (#rosetta-code)
-        * [Project Euler] (#project-euler)
-    * [Codewars Challenges] (#codewars)
+* [freeCodeCamp Certification](#freecodecamp-certification)
+    * [Algorithms and Data Structures](#algorithms-and-data-structures)
+* [freeCodeCamp Challenges](#freecodecamp-challenges)
+    * [Algorithms](#algorithms)
+    * [Data Structures](#data-structures)
+    * [Rosetta Code](#rosetta-code)
+    * [Project Euler](#project-euler)
+* [Codewars Challenges](#codewars-challenges)
+
 </details>
 
 
